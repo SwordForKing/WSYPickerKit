@@ -1,0 +1,6 @@
+framework module WSYPickerKit {
+  umbrella header "WSYPickerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

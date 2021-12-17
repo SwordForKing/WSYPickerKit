@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - WSYPickerKit (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - WSYPickerKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  WSYPickerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  WSYPickerKit: 9ac5695abd2bdef9949622e0e8b5d994dadb582c
+
+PODFILE CHECKSUM: e546a9e0ce7475d10b6c030b4e572bd589378aff
+
+COCOAPODS: 1.10.1
